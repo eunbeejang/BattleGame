@@ -1,5 +1,3 @@
-// Student Name: Jang, Eunbee
-// Student Number: 260658722
 
 
 import java.io.*;
